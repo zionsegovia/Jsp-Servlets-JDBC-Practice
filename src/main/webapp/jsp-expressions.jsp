@@ -7,6 +7,8 @@
 
 <%-- JSP Expressions --%>
 
+<%-- *** We use <%= for expressions *** --%>
+
 <%-- Objects --%>
 Converting a string to uppercase: <%= new String("Hello World").toUpperCase()%>
 <br/><br/>
